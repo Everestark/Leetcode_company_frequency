@@ -10,6 +10,8 @@ The PDFs have leetcode companies tagged. Those problems are good practice to be 
 
 The collection of each company's tagged questions on [Leetcode](https://leetcode.com/problemset/all/).
 
+https://www.lintcode.com/problem/
+
 
 # Table of Company
 
